@@ -132,6 +132,7 @@
       "animation",
       "audio",
       "base",
+      "custom-pipeline",
       "gfx-webgl",
       "intersection-2d",
       "physics-ammo",
@@ -140,8 +141,7 @@
       "skeletal-animation",
       "tween",
       "ui",
-      "websocket",
-      "custom-pipeline"
+      "websocket"
     ],
     "noDeprecatedFeatures": {
       "value": false,
